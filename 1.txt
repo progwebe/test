@@ -1,1 +1,3 @@
 conflict resolved
+
+2nd line
